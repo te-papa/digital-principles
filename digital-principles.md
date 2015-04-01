@@ -17,7 +17,7 @@ We will actively enrich peoples' lives  by making Te Papa's  unique collections,
 **DIGITAL WILL ALSO DELIVER FOR TE PAPA:**
 
 - **reach** more people through relevant channels and access points
-- bring in **outside contributions **and collaborations
+- bring in **outside contributions** and collaborations
 - ensure Te Papa is an **active** part of people's lives beyond a physical visit
 - **maximise** cultural and commercial **benefits** from what Te Papa creates
 - grow Te Papa's **communities** 
