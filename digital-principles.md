@@ -6,7 +6,7 @@
 
 We will actively enrich peoples' lives  by making Te Papa's  unique collections, content, stories and experiences accessible to them – where, when, and how they  want.
 
-##DIGITAL WILL DELIVER FOR TE PAPA VISITORS:
+###DIGITAL WILL DELIVER FOR TE PAPA VISITORS:
 
 - **access** to Te Papa's digital collections, content, stories and experiences 
 - **relevant and engaging content** where, when and how people want it 
@@ -14,7 +14,7 @@ We will actively enrich peoples' lives  by making Te Papa's  unique collections,
 - opportunities to **contribute and collaborate**
 - an **integrated** digital and physical experience of Te Papa 
 
-##DIGITAL WILL ALSO DELIVER FOR TE PAPA:
+###DIGITAL WILL ALSO DELIVER FOR TE PAPA:
 
 - **reach** more people through relevant channels and access points
 - bring in **outside contributions** and collaborations
@@ -23,7 +23,7 @@ We will actively enrich peoples' lives  by making Te Papa's  unique collections,
 - grow Te Papa's **communities** 
 - Digital **maturity** and **leadership** 
 
-##TE PAPA DIGITAL PRODUCTS WILL:
+###TE PAPA DIGITAL PRODUCTS WILL:
 
 - be strongly user-focussed
 - be accessible, reliable, authoritative and trustworthy
@@ -32,7 +32,7 @@ We will actively enrich peoples' lives  by making Te Papa's  unique collections,
 - educate, inform and entertain
 - reflect Te Papa's national and bicultural mandate
 
-##DIGITAL PRODUCT DEVELOPMENT WILL:
+###DIGITAL PRODUCT DEVELOPMENT WILL:
 
 - be user centred
 - be data driven (based on data, metrics and user research)
